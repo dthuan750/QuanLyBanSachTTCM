@@ -1,0 +1,15 @@
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe.config
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.exe
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\bin\Debug\QuanLyBanSach.pdb
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojAssemblyReference.cache
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.ChiTietSach.resources
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.KhachHang.resources
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.LoginForm.resources
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.MainForm.resources
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.NhanVien.resources
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.PhieuThu.resources
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.Properties.Resources.resources
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.QuyDinh.resources
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csproj.GenerateResource.cache
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.exe
+C:\Users\dthua\source\repos\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
